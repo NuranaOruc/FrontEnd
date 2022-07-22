@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    text-align: center;
+    margin: 30px 0px 50px;
+    color: #1A213D;
+    font-size: 38px;
+}
+
+div {
+    width: 26%;
+    margin: 10px 50px 40px ;
+    display: inline-block;
+    height: 10%;
+}
+
+div i {
+    background-color:#304CBB ;
+    padding: 11px;
+    border-radius: 30px;
+    color:white ;
+}
+
+div h3 {
+    color: #26385B;
+    font-weight: bold;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+div p {
+    color: #B1AACD;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+div i , div h3 , div p {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
